@@ -26,3 +26,10 @@ RememVR is designed to mitigate the expensive process involved in creating VR co
 ## **UN Sustainable Development Goal & Targets**
 ![SDGs](https://github.com/RememberMe-2024-SolutionChallenge/RememVR-md/assets/123253883/33ce6474-8fd4-411b-be2e-c0ae2606d284)
 We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d. As dementia is a disease that influences whole community which includes individuals and their family, our service could provide essential health care services. Simultaneously, providing VR contents based on reminiscence therapy would strengthen the capacity for risk reduction and management of dementia.
+
+## Demo Video
+
+## Guidance for user
+
+## References
+
