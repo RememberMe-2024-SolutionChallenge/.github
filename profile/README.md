@@ -1,8 +1,12 @@
-![readme-main-image](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/logo.png)
-
 ## **Project Intro**
 
-RememVR is a service facilitating participation in reminiscence therapy based on VR contents for dementia patients. Our team implemented video-to-VR technology based on AI models, utilizing GPU, which proves to be significantly more cost-effective than other equipment commonly employed in the creation of existing VR content.
+RememVR is a service facilitating participation in reminiscence therapy based on VR contents for dementia patients. Our team implemented video-to-VR technology based on AI models, which proves to be significantly more cost-effective than other equipment commonly employed in the creation of existing VR content.
+
+## Demo Video
+
+[![Demo Video](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/video.png)]("YOUTUBE_LINK")
+
+<img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/video.png" style="width: 400">
 
 ## **Problem Statement**
 
@@ -23,18 +27,14 @@ RememVR is designed to mitigate the expensive process involved in creating VR co
 ![SDGs](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/sdgs.png)
 We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d. As dementia is a disease that influences whole community which includes individuals and their family, our service could provide essential health care services. Simultaneously, providing VR contents based on reminiscence therapy would strengthen the capacity for risk reduction and management of dementia.
 
-## Demo Video
-
-[![Demo Video](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/video.png)]("YOUTUBE_LINK")
-
 ## Guidance for user
 
 ## Project Team Members
 
-| [GuiJung Woo](https://github.com/woog2roid)                                                                                                 | [SeoYeon Byun](https://github.com/seooyxx)                                                                                                | [Seoyoung Kim](https://github.com/seoyoung723)                                                                                                | [JinWoo Choi](https://github.com/ryan00102)                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/woog2roid.png" style="width: 350px"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/seooyxx.png" style="width: 350px"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/seoyoung723.png" style="width: 350px"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/ryan00102.png" style="width: 350px"> |
+We are team **RememVR** from _Google Developer Student Clubs Korea University, Seoul Campus_.
 
-We are team **RememVR** from _Google Developer Student Clubs Korea University, Seoul Campus_. |
+| [GuiJung Woo](https://github.com/woog2roid)<br/>BE Engineer                                                                                            | [SeoYeon Byun](https://github.com/seooyxx)<br/>AI Engineer                                                                                           | [Seoyoung Kim](https://github.com/seoyoung723)<br/>PM / Designer                                                                                         | [JinWoo Choi](https://github.com/ryan00102)<br/>FE Engineer                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/contributors/woog2roid.png" style="width: 100"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/contributors/seooyxx.png" style="width: 100"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/contributors/seoyoung723.png" style="width: 100"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/contributors/ryan00102.png" style="width: 100"> |
 
 ## References
