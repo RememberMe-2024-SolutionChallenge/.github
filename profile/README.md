@@ -31,7 +31,10 @@ We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d
 
 ## Project Team Members
 
-![Team Member](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/contributors.png)
-We are team **RememVR** from _Google Developer Student Clubs Korea University, Seoul Campus_.
+| [GuiJung Woo](https://github.com/woog2roid)                                                                                                 | [SeoYeon Byun](https://github.com/seooyxx)                                                                                                | [Seoyoung Kim](https://github.com/seoyoung723)                                                                                                | [JinWoo Choi](https://github.com/ryan00102)                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/woog2roid.png" style="width: 350px"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/seooyxx.png" style="width: 350px"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/seoyoung723.png" style="width: 350px"> | <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/ryan00102.png" style="width: 350px"> |
+
+We are team **RememVR** from _Google Developer Student Clubs Korea University, Seoul Campus_. |
 
 ## References
