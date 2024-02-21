@@ -1,4 +1,4 @@
-## **Introduction**
+## **0. Introduction**
 
 RememVR is a service facilitating participation in reminiscence therapy based on VR contents for dementia patients. Our team implemented video-to-VR technology based on AI models, which proves to be significantly more cost-effective than other equipment commonly employed in the creation of existing VR content.
 
@@ -6,9 +6,7 @@ RememVR is a service facilitating participation in reminiscence therapy based on
 
 > You can check out the Demo Video by clicking above image.
 
-## **Key Features**
-
-## **Problem Statement**
+## **1. Problem Statement**
 
 #### **Main Target**
 
@@ -22,15 +20,15 @@ According to WHO, there are over 55 million people worldwide living with dementi
 
 RememVR is designed to mitigate the expensive process involved in creating VR content for reminiscence therapy.
 
-## **UN Sustainable Development Goal & Targets**
+## **2. UN Sustainable Development Goal & Targets**
 
 <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/sdgs.png" style="width: 70%;">
 
 We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d. As dementia is a disease that influences whole community which includes individuals and their family, our service could provide essential health care services. Simultaneously, providing VR contents based on reminiscence therapy would strengthen the capacity for risk reduction and management of dementia.
 
-## Guidance for user
+## **3. Key Features**
 
-## Architecture
+## **4. Architecture**
 
 <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/architecture.jpg" style="width: 90%;">
 
@@ -40,7 +38,7 @@ We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d
 - **Server:** [Gateway/Application server](https://github.com/RememVR-2024-SolutionChallenge/gateway-server) [AI server](https://github.com/RememVR-2024-SolutionChallenge/ai-server)
 - **Other server utils:** [AI task scheduler](https://github.com/RememVR-2024-SolutionChallenge/AI-task-scheduler) [Realtime DB synchronizer](https://github.com/RememVR-2024-SolutionChallenge/realtime-DB-synchronization)
 
-## Team Members
+## **5. Team Members**
 
 | [GuiJung Woo](https://github.com/woog2roid)<br/>BE Engineer                                                                                              | [SeoYeon Byun](https://github.com/seooyxx)<br/>AI Engineer                                                                                             | [Seoyoung Kim](https://github.com/seoyoung723)<br/>PM / Designer                                                                                           | [JinWoo Choi](https://github.com/ryan00102)<br/>FE Engineer                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
