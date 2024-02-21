@@ -32,6 +32,10 @@ We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d
 
 ## Architecture
 
+<img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/architecture.jpg" style="width: 90%;">
+
+> _Detailed descriptions of each component are provided in their respective repositories._
+
 - **Client:** [Mobile Application](https://github.com/RememVR-2024-SolutionChallenge/RememVR-client) [VR viewer](https://github.com/RememVR-2024-SolutionChallenge/vr-viewer)
 - **Server:** [Gateway/Application server](https://github.com/RememVR-2024-SolutionChallenge/gateway-server) [AI server](https://github.com/RememVR-2024-SolutionChallenge/ai-server)
 - **Other server utils:** [AI task scheduler](https://github.com/RememVR-2024-SolutionChallenge/AI-task-scheduler) [Realtime DB synchronizer](https://github.com/RememVR-2024-SolutionChallenge/realtime-DB-synchronization)
