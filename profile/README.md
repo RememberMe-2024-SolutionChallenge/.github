@@ -1,4 +1,4 @@
-![readme-main-image](./assets/logo.png)
+![readme-main-image](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/logo.png)
 
 ## **Project Intro**
 
@@ -20,18 +20,18 @@ RememVR is designed to mitigate the expensive process involved in creating VR co
 
 ## **UN Sustainable Development Goal & Targets**
 
-![SDGs](./assets/sdgs.png)
+![SDGs](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/sdgs.png)
 We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d. As dementia is a disease that influences whole community which includes individuals and their family, our service could provide essential health care services. Simultaneously, providing VR contents based on reminiscence therapy would strengthen the capacity for risk reduction and management of dementia.
 
 ## Demo Video
 
-[![Demo Video](./assets/video.png)]("YOUTUBE_LINK")
+[![Demo Video](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/video.png)]("YOUTUBE_LINK")
 
 ## Guidance for user
 
 ## Project Team Members
 
-![Team Member](https://github.com/RememberMe-2024-SolutionChallenge/RememVR-md/assets/123253883/373f059f-7daf-4881-9f79-fc601d575654)
+![Team Member](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/contributors.png)
 We are team **RememVR** from _Google Developer Student Clubs Korea University, Seoul Campus_.
 
 ## References
