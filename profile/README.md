@@ -28,6 +28,31 @@ We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d
 
 ## **3. Key Features**
 
+We separated our application into two tracks, caregiver and care recipient tracks are those. Caregivers can make VR scenes and care recipients can experience VR scenes engaging in reminiscence therapy. 
+
+### Key Features in Caregiver Track
+
+#### Creating Avatar
+RememVR generates avatars representing the patient's cherished individuals. These avatars, combined with place VR scene, offer the patient an immersive recollection of memories. RememVR assists in safeguarding the continuity of the patient's memories. Caregivers can upload a video featuring the person whom they like to transform into an avatar.
+
+#### Creating VR Scene (Place)
+RememVR creates VR experiences encapsulating the places intertwined with a patient's memories. We all live with our unique sense of places, as visiting specific locations can evoke memories from particular times. Places in VR will make them feel as if they are physically present in that space. Caregivers can upload videos that showcase distinctive features of the location if its indoor. If with outdoor features they can select the specific location. 
+
+#### Creating VR Scene (Avatar + Place)
+Caregivers can select one or two avatars, and one place VR scene to build a completed VR scene. After VR scene is generated, care recipient can find out that scene in his/her VR experience list.
+
+### Key Features in Caregiver Track
+
+#### VR Experience
+Care recipients can participate in VR scene. Our character ‘Brainy’ helps care recipient to follow the steps for VR experience which is a part of the reminiscence therapy. 
+
+|  |  |  |
+
+#### Badge Tracker
+After the care recipient completes the VR experience, badges are awarded as part of gamification. These badges can be viewed not only on the Care Recipient's home-page but also on the Caregiver's home. There are a total of three badge designs, and one of them is randomly assigned.
+
+| Header 1 | Header 2 | Header 3 |
+
 ## **4. Architecture**
 
 <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/architecture.jpg" style="width: 90%;">
