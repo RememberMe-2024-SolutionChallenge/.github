@@ -49,7 +49,7 @@ Caregivers can select one or two avatars, and one place VR scene to build a comp
 
 <img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/caregiver%20-%203.png?raw=true" style="width: 50%;">
 
-### b. Key Features in Caregiver Track
+### b. Key Features in Care recipient Track
 
 #### (1) VR Experience
 Care recipients can participate in VR scene. Our character ‘Brainy’ helps care recipient to follow the steps for VR experience which is a part of the reminiscence therapy. 
