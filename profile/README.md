@@ -63,7 +63,32 @@ After the care recipient completes the VR experience, badges are awarded as part
 - **Server:** [Gateway/Application server](https://github.com/RememVR-2024-SolutionChallenge/gateway-server) [AI server](https://github.com/RememVR-2024-SolutionChallenge/ai-server)
 - **Other server utils:** [AI task scheduler](https://github.com/RememVR-2024-SolutionChallenge/AI-task-scheduler) [Realtime DB synchronizer](https://github.com/RememVR-2024-SolutionChallenge/realtime-DB-synchronization)
 
-## **5. Team Members**
+## **5. How to Run**
+> _This project is developed using Flutter. You can launch this app by downloading an apk file or running with IDE(VSCode)!_
+> 
+### Download APK
+
+1. Enter https://github.com/RememVR-2024-SolutionChallenge/RememVR-client/releases
+2. Click the latest release
+3. Download app-release.apk
+4. Launch this app on Android devices.
+   
+### Run with IDE
+
+ Before you start, make sure you have installed the following on your system:
+
+- Flutter SDK
+- VS Code
+- Dart and Flutter extensions for VS Code
+- Android emulator or physical device
+
+1. Clone the RememVR repository from GitHub: https://github.com/RememVR-2024-SolutionChallenge/RememVR-client.git
+2. Open the project folder in VS Code.
+3. In VS Code, open the command palette (View > Command Palette) and type "Flutter: Run Flutter Doctor". This will check your system to make sure everything is set up correctly.
+4. In VS Code, open the main.dart file and click the "Run" button. This will launch the app in the emulator or on your physical device.
+
+
+## **6. Team Members**
 
 | [GuiJung Woo](https://github.com/woog2roid)<br/>BE Engineer                                                                                              | [SeoYeon Byun](https://github.com/seooyxx)<br/>AI Engineer                                                                                             | [Seoyoung Kim](https://github.com/seoyoung723)<br/>PM / Designer                                                                                           | [JinWoo Choi](https://github.com/ryan00102)<br/>FE Engineer                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
