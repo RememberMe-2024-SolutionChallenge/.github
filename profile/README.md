@@ -30,27 +30,38 @@ We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d
 
 We separated our application into two tracks, caregiver and care recipient tracks are those. Caregivers can make VR scenes and care recipients can experience VR scenes engaging in reminiscence therapy. 
 
-### Key Features in Caregiver Track
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/care_main.png?raw=true" style="width: 50%;">
 
-#### Creating Avatar
+### a. Key Features in Caregiver Track
+
+#### (1) Creating Avatar
 RememVR generates avatars representing the patient's cherished individuals. These avatars, combined with place VR scene, offer the patient an immersive recollection of memories. RememVR assists in safeguarding the continuity of the patient's memories. Caregivers can upload a video featuring the person whom they like to transform into an avatar.
 
-#### Creating VR Scene (Place)
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/caregiver%20-%201.png?raw=true![image](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/beee018b-3a49-4746-b29a-b0a2f36f30ae)
+" style="width: 50%;">
+
+#### (2) Creating VR Scene (Place)
 RememVR creates VR experiences encapsulating the places intertwined with a patient's memories. We all live with our unique sense of places, as visiting specific locations can evoke memories from particular times. Places in VR will make them feel as if they are physically present in that space. Caregivers can upload videos that showcase distinctive features of the location if its indoor. If with outdoor features they can select the specific location. 
 
-#### Creating VR Scene (Avatar + Place)
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/caregiver%20-%202.png?raw=true" style="width: 50%;">
+
+#### (3) Creating VR Scene (Avatar + Place)
 Caregivers can select one or two avatars, and one place VR scene to build a completed VR scene. After VR scene is generated, care recipient can find out that scene in his/her VR experience list.
 
-### Key Features in Caregiver Track
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/caregiver%20-%203.png?raw=true![image](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/d9b0a927-6e1d-4485-a5b9-aef2183f9c96)
+" style="width: 50%;">
 
-#### VR Experience
+### b. Key Features in Caregiver Track
+
+#### (1) VR Experience
 Care recipients can participate in VR scene. Our character ‘Brainy’ helps care recipient to follow the steps for VR experience which is a part of the reminiscence therapy. 
 
-<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/care%20recipient%20-%201.png?raw=true" style="width: 80%;">
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/care%20recipient%20-%201.png?raw=true" style="width: 50%;">
 
-#### Badge Tracker
+#### (2) Badge Tracker
 After the care recipient completes the VR experience, badges are awarded as part of gamification. These badges can be viewed not only on the Care Recipient's home-page but also on the Caregiver's home. There are a total of three badge designs, and one of them is randomly assigned.
 
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/care%20recipient%20-%202.png?raw=true" style="width: 50%;">
 
 ## **4. Architecture**
 
