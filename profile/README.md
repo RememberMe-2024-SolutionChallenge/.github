@@ -25,25 +25,17 @@ We separated our application into two tracks, caregiver and care recipient track
 ### a. Key Features in Caregiver Track
 
 - **(1) Creating Avatar**
-
   - RememVR generates avatars representing the patient's cherished individuals. These avatars, combined with place VR scene, offer the patient an immersive recollection of memories. RememVR assists in safeguarding the continuity of the patient's memories. Caregivers can upload a video featuring the person whom they like to transform into an avatar.
-
 - **(2) Creating VR Scene (Place)**
-
   - RememVR creates VR experiences encapsulating the places intertwined with a patient's memories. We all live with our unique sense of places, as visiting specific locations can evoke memories from particular times. Places in VR will make them feel as if they are physically present in that space. Caregivers can upload videos that showcase distinctive features of the location if its indoor. If with outdoor features they can select the specific location.
-
 - **(3) Creating VR Scene (Avatar + Place)**
-
   - Caregivers can select avatars, and a VR scene to build a completed VR scene. After VR scene is generated, care recipient can find out that scene in his/her VR experience list.
 
 ### b. Key Features in Care recipient Track
 
 - **(1) VR Experience**
-
   - Care recipients can participate in VR scene. Our character ‘Brainy’ helps care recipient to follow the steps for VR experience which is a part of the reminiscence therapy.
-
 - **(2) Badge Tracker**
-
   - After the care recipient completes the VR experience, badges are awarded as part of gamification. These badges can be viewed not only on the Care Recipient's home-page but also on the Caregiver's home. There are a total of three badge designs, and one of them is randomly assigned.
 
 ## **4. Architecture**
