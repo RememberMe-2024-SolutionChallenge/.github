@@ -54,7 +54,7 @@ Caregivers can select one or two avatars, and one place VR scene to build a comp
 #### (1) VR Experience
 Care recipients can participate in VR scene. Our character ‘Brainy’ helps care recipient to follow the steps for VR experience which is a part of the reminiscence therapy. 
 
-<img src="[https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/care%20recipient%20-%201.png?raw=true" style="width: 50%;">
+<img src="[https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/care%20recipient%20-%201.png?raw=true" style="width: 30%;">
 
 #### (2) Badge Tracker
 After the care recipient completes the VR experience, badges are awarded as p![image](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/a0d39746-771a-47ed-a3d9-1f66b7dfd412)
