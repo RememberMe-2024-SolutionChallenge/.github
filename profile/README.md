@@ -44,9 +44,9 @@ We separated our application into two tracks, caregiver and care recipient track
 
 > _Detailed descriptions of each component are provided in their respective repositories._
 
-- **Client:** [Mobile Application](https://github.com/RememVR-2024-SolutionChallenge/RememVR-client) [VR viewer](https://github.com/RememVR-2024-SolutionChallenge/vr-viewer)
-- **Server:** [Gateway/Application server](https://github.com/RememVR-2024-SolutionChallenge/gateway-server) [AI server](https://github.com/RememVR-2024-SolutionChallenge/ai-server)
-- **Other server utils:** [AI task scheduler](https://github.com/RememVR-2024-SolutionChallenge/AI-task-scheduler) [Realtime DB synchronizer](https://github.com/RememVR-2024-SolutionChallenge/realtime-DB-synchronization)
+- **Client: [Mobile Application](https://github.com/RememVR-2024-SolutionChallenge/RememVR-client) [VR viewer](https://github.com/RememVR-2024-SolutionChallenge/vr-viewer)**
+- **Server: [Gateway/Application server](https://github.com/RememVR-2024-SolutionChallenge/gateway-server) [AI server](https://github.com/RememVR-2024-SolutionChallenge/ai-server)**
+- **Other server utils: [AI task scheduler](https://github.com/RememVR-2024-SolutionChallenge/AI-task-scheduler) [Realtime DB synchronizer](https://github.com/RememVR-2024-SolutionChallenge/realtime-DB-synchronization)**
 
 ## **5. How to Run**
 
