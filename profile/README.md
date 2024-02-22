@@ -37,8 +37,7 @@ We separated our application into two tracks, caregiver and care recipient track
 #### (1) Creating Avatar
 RememVR generates avatars representing the patient's cherished individuals. These avatars, combined with place VR scene, offer the patient an immersive recollection of memories. RememVR assists in safeguarding the continuity of the patient's memories. Caregivers can upload a video featuring the person whom they like to transform into an avatar.
 
-<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/caregiver%20-%201.png?raw=true![image](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/beee018b-3a49-4746-b29a-b0a2f36f30ae)
-" style="width: 50%;">
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/caregiver%20-%201.png?raw=true" style="width: 50%;">
 
 #### (2) Creating VR Scene (Place)
 RememVR creates VR experiences encapsulating the places intertwined with a patient's memories. We all live with our unique sense of places, as visiting specific locations can evoke memories from particular times. Places in VR will make them feel as if they are physically present in that space. Caregivers can upload videos that showcase distinctive features of the location if its indoor. If with outdoor features they can select the specific location. 
@@ -48,8 +47,7 @@ RememVR creates VR experiences encapsulating the places intertwined with a patie
 #### (3) Creating VR Scene (Avatar + Place)
 Caregivers can select one or two avatars, and one place VR scene to build a completed VR scene. After VR scene is generated, care recipient can find out that scene in his/her VR experience list.
 
-<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/caregiver%20-%203.png?raw=true![image](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/d9b0a927-6e1d-4485-a5b9-aef2183f9c96)
-" style="width: 50%;">
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/blob/main/profile/assets/caregiver%20-%203.png?raw=true" style="width: 50%;">
 
 ### b. Key Features in Caregiver Track
 
