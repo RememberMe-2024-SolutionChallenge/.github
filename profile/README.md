@@ -8,16 +8,8 @@ RememVR is a service facilitating participation in reminiscence therapy based on
 
 ## **1. Problem Statement**
 
-#### **Main Target**
-
 Dementia patients and caregivers are the main target of our challenge.
-
-#### **Problem Context**
-
 According to WHO, there are over 55 million people worldwide living with dementia in 2020 and they project this number will almost double every 20 years. Aged society and increasing amount of people with dementia implies that care technology should back up the status quo. Reminiscence therapy is one of the effective therapy for people diagnosed with dementia, enhanced with VR contents. However, creating VR content with realistic models of objects and people involves a costly process that includes 3D scanning and real-time rendering. A recent Korean documentary 'Meeting You' has shown similar VR experience with our service. The total project costed about $120px,000 and the cost only for the VR contents was half of the total production cost.
-
-#### **Main Problem**
-
 RememVR is designed to mitigate the expensive process involved in creating VR content for reminiscence therapy.
 
 ## **2. UN Sustainable Development Goal & Targets**
@@ -30,27 +22,27 @@ We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d
 
 We separated our application into two tracks, caregiver and care recipient tracks are those. Caregivers can make VR scenes and care recipients can experience VR scenes engaging in reminiscence therapy.
 
-**a. Key Features in Caregiver Track**
+### a. Key Features in Caregiver Track
 
-- (1) Creating Avatar
+- **(1) Creating Avatar**
 
   - RememVR generates avatars representing the patient's cherished individuals. These avatars, combined with place VR scene, offer the patient an immersive recollection of memories. RememVR assists in safeguarding the continuity of the patient's memories. Caregivers can upload a video featuring the person whom they like to transform into an avatar.
 
-- (2) Creating VR Scene (Place)
+- **(2) Creating VR Scene (Place)**
 
   - RememVR creates VR experiences encapsulating the places intertwined with a patient's memories. We all live with our unique sense of places, as visiting specific locations can evoke memories from particular times. Places in VR will make them feel as if they are physically present in that space. Caregivers can upload videos that showcase distinctive features of the location if its indoor. If with outdoor features they can select the specific location.
 
-- (3) Creating VR Scene (Avatar + Place)
+- **(3) Creating VR Scene (Avatar + Place)**
 
   - Caregivers can select avatars, and a VR scene to build a completed VR scene. After VR scene is generated, care recipient can find out that scene in his/her VR experience list.
 
 ### b. Key Features in Care recipient Track
 
-- (1) VR Experience
+- **(1) VR Experience**
 
   - Care recipients can participate in VR scene. Our character ‘Brainy’ helps care recipient to follow the steps for VR experience which is a part of the reminiscence therapy.
 
-- (2) Badge Tracker
+- **(2) Badge Tracker**
 
   - After the care recipient completes the VR experience, badges are awarded as part of gamification. These badges can be viewed not only on the Care Recipient's home-page but also on the Caregiver's home. There are a total of three badge designs, and one of them is randomly assigned.
 
