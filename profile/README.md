@@ -45,12 +45,7 @@ We separated our application into two tracks, caregiver and care recipient track
 
 ### Run with IDE
 
-Before you start, make sure you have installed the following on your system:
-
-- Flutter SDK
-- VS Code
-- Dart and Flutter extensions for VS Code
-- Android emulator or physical device
+Before you start, make sure you have installed the following on your system: `Flutter SDK`, `VS Code`, `Dart and Flutter extensions for VS Code`, `Android emulator or physical device`
 
 1. Clone the RememVR repository from GitHub: https://github.com/RememVR-2024-SolutionChallenge/RememVR-client.git
 2. Open the project folder in VS Code.
