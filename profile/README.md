@@ -34,37 +34,44 @@ We separated our application into two tracks, caregiver and care recipient track
 
 ## **3. How to Run**
 
-> _This project is developed using Flutter. You can launch this app by downloading an apk file or running with IDE(VSCode)!_
+> _This service is developed mobile and VR device. Below are the methods for installing the application on mobile devices and running it on VR devices._
 
-### Download APK
+### Install Mobile Application
 
-1. Enter https://github.com/RememVR-2024-SolutionChallenge/RememVR-client/releases
-2. Click the latest release
-3. Download app-release.apk
+#### Method 1. Download APK
+
+1. Enter [https://github.com/RememVR-2024-SolutionChallenge/RememVR-client/releases](https://github.com/RememVR-2024-SolutionChallenge/RememVR-client/releases).
+2. Click the `latest` release.
+3. Download `app-release.apk`.
 4. Launch this app on Android devices.
 
-### Run with VR Devices
-Experience our VR viewer if you have a VR setup. Before launching the app, ensure your VR and mobile devices are connected.
-
-#### 😎 For Quest 2 Users:
-1. **Connecting your Quest 2**: Link your Quest2 with mobile device. Follow the instructions in-VR and in the Meta Quest mobile app to complete the setup process. Refer to the [official guidance](https://www.meta.com/ko-kr/help/quest/articles/getting-started/getting-started-with-quest-2/install-meta-quest-mobile-app/). Just ensuring a mirroring connection suffices for our service.
-
-    ❗Note: Your VR device and mobile device **MUST BE** connected with same network.
-
-2. **Accessing the VR Viewer**: Once connected, the `Start VR` button on our web-based VR viewer becomes automatically accessible. Click it, and enjoy your VR journey!
-
-    * Access several pre-trained example models [here](https://rememvr-2024-solutionchallenge.github.io/vr-viewer/demo).
-    * This VR viewer connects with Flutter APK. If you have your own trained scene and avatar, you can see your own model with this viewer. [Learn how to create your own model here](https://github.com/RememVR-2024-SolutionChallenge/ai-server).
-    * We've tested with Oculus Quest 2 and Galaxy S22. We will support more VR devices soon.
-
-### Run with IDE
+#### Method 2. Run with IDE
 
 Before you start, make sure you have installed the following on your system: `Flutter SDK`, `VS Code`, `Dart and Flutter extensions for VS Code`, `Android emulator or physical device`
 
-1. Clone the RememVR repository from GitHub: https://github.com/RememVR-2024-SolutionChallenge/RememVR-client.git
+1. Clone the RememVR repository from GitHub:
+   ```
+   git clone https://github.com/RememVR-2024-SolutionChallenge/RememVR-client.git
+   ```
 2. Open the project folder in VS Code.
 3. In VS Code, open the command palette (View > Command Palette) and type "Flutter: Run Flutter Doctor". This will check your system to make sure everything is set up correctly.
 4. In VS Code, open the main.dart file and click the "Run" button. This will launch the app in the emulator or on your physical device.
+
+### Run VR Devices
+
+Experience our VR viewer if you have a VR setup. Before launching the app, ensure your VR and mobile devices are connected.
+
+#### 😎 For Quest 2 Users:
+
+1. **Connecting your Quest 2**: Link your Quest2 with mobile device. Follow the instructions in-VR and in the Meta Quest mobile app to complete the setup process. Refer to the [official guidance](https://www.meta.com/ko-kr/help/quest/articles/getting-started/getting-started-with-quest-2/install-meta-quest-mobile-app/). Just ensuring a mirroring connection suffices for our service.
+
+   ❗Note: Your VR device and mobile device **MUST BE** connected with same network.
+
+2. **Accessing the VR Viewer**: Once connected, the `Start VR` button on our web-based VR viewer becomes automatically accessible. Click it, and enjoy your VR journey!
+
+   - Access several pre-trained example models [here](https://rememvr-2024-solutionchallenge.github.io/vr-viewer/demo).
+   - This VR viewer connects with Flutter APK. If you have your own trained scene and avatar, you can see your own model with this viewer. [Learn how to create your own model here](https://github.com/RememVR-2024-SolutionChallenge/ai-server).
+   - We've tested with Oculus Quest 2 and Galaxy S22. We will support more VR devices soon.
 
 ## **4. Architecture**
 
