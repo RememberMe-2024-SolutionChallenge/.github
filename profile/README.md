@@ -2,7 +2,7 @@
 
 RememVR is a service facilitating participation in reminiscence therapy based on VR contents for dementia patients. Our team implemented video-to-VR technology based on AI models, which proves to be significantly more cost-effective than other equipment commonly employed in the creation of existing VR content.
 
-[![Demo Video](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/video.png)]("https://youtu.be/SvhOM7ff8sI")
+[![Demo Video](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/video.png)](https://youtu.be/SvhOM7ff8sI)
 
 > You can check out the Demo Video by clicking above image.
 
