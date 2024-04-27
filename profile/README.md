@@ -75,7 +75,7 @@ Experience our VR viewer if you have a VR setup. Before launching the app, ensur
 
 ## **4. Architecture**
 
-<img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/architecture.jpg" style="width: 90%;">
+<img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/architecture.png">
 
 > _Detailed descriptions of each component are provided in their respective repositories._
 
