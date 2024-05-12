@@ -8,7 +8,7 @@ RememVR is a service facilitating participation in reminiscence therapy based on
 
 ## **1. UN Sustainable Development Goal & Targets**
 
-![SDGs](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/60b22415-662d-439a-9a6a-15c6e0da3a96)
+<img src="https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/60b22415-662d-439a-9a6a-15c6e0da3a96.png" style="width: 600px">
 
 We chose UN Sustainable Development Goal 3. Especially, we aimed to tackle target 3.4, 3.8, and 3.d. The problem of depression and loneliness is world-wide problem, getting worse with nuclear individualization. To address these problems, we designed a reminiscence therapy service for people suffering from depression by using AI and VR. Our service provide essential health care services. Simultaneously, providing VR contents based on reminiscence therapy would strengthen the capacity for risk reduction and management of depression and loneliness.
 
@@ -21,7 +21,7 @@ We separated our application into two tracks, caregiver and care recipient track
 - **(1) Creating VR Scene (Place)**
   - RememVR creates VR experiences encapsulating the places intertwined with a patient's memories. We all live with our unique sense of places, as visiting specific locations can evoke memories from particular times. Places in VR will make them feel as if they are physically present in that space. Caregivers can upload videos showcasing distinctive features of the location if it's indoor, forward-faced, or unbounded.
 - **(2) Creating Avatar**
-  - RememVR gives avatars representing the patient's cherished individuals. These avatars, combined with place VR scene, offer the patient an immersive recollection of memories. RememVR assists in safeguarding the continuity of the patient's memories. Caregivers can upload a video or an image featuring the person whom they like to transform into an avatar.
+  - RememVR gives avatars representing the patient's cherished individuals. These avatars, combined with place VR scene, offer the recipients an immersive recollection of memories. RememVR assists in safeguarding the continuity of the recipient's memories. Caregivers can upload a video or an image featuring the person whom they like to transform into an avatar.
 - **(3) Creating VR Scene (Avatar + Place)**
   - Caregivers can select avatars, and a VR scene to build a completed VR scene. After VR scene is generated, care recipient can find out that scene in his/her VR experience list.
 
