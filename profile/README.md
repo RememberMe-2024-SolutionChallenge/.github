@@ -2,13 +2,13 @@
 
 RememVR is a service facilitating participation in reminiscence therapy based on VR contents. Our team implemented video-to-VR technology based on AI models, which proves to be significantly more cost-effective than other equipment commonly employed in the creation of existing VR content.
 
-[![Demo Video](https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/video.png)](https://youtu.be/SvhOM7ff8sI)
+[![썸네일](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/4205b460-5ebf-4b09-8a6f-d561a57b8464)](https://youtu.be/SvhOM7ff8sI)
 
 > You can check out the Demo Video by clicking above image.
 
 ## **1. UN Sustainable Development Goal & Targets**
 
-<img ![SDGs](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/4455c66f-1789-496e-9735-74eff3c2e033) style="width: 70%;">
+<img; ![SDGs](https://github.com/RememVR-2024-SolutionChallenge/.github/assets/123253883/4455c66f-1789-496e-9735-74eff3c2e033) style="width: 70%;">
 
 We chose UN Sustainable Development Goal 3. Especially, we aimed to tackle target 3.4, 3.8, and 3.d. The problem of depression and loneliness is world-wide problem, getting worse with nuclear individualization. To address these problems, we designed a reminiscence therapy service for people suffering from depression by using AI and VR. Our service provide essential health care services. Simultaneously, providing VR contents based on reminiscence therapy would strengthen the capacity for risk reduction and management of depression and loneliness.
 
