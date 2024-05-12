@@ -10,7 +10,7 @@ RememVR is a service facilitating participation in reminiscence therapy based on
 
 <img src="https://raw.githubusercontent.com/RememVR-2024-SolutionChallenge/.github/main/profile/assets/sdgs.png" style="width: 70%;">
 
-We chose UN Sustainable Development Goal 3, specifically with target 3.8 and 3.d. As dementia is a disease that influences whole community which includes individuals and their family, our service could provide essential health care services. Simultaneously, providing VR contents based on reminiscence therapy would strengthen the capacity for risk reduction and management of dementia.
+We chose UN Sustainable Development Goal 3. Especially, we aimed to tackle target 3.4, 3.8, and 3.d. The problem of depression and loneliness is world-wide problem, getting worse with nuclear individualization. To address these problems, we designed a reminiscence therapy service for people suffering from depression by using AI and VR. Our service provide essential health care services. Simultaneously, providing VR contents based on reminiscence therapy would strengthen the capacity for risk reduction and management of depression and loneliness.
 
 ## **2. Key Features**
 
@@ -28,13 +28,13 @@ We separated our application into two tracks, caregiver and care recipient track
 ### b. Key Features in Care recipient Track
 
 - **(1) VR Experience**
-  - Care recipients can participate in VR scene. Our character ‘Brainy’ helps care recipient to follow the steps for VR experience which is a part of the reminiscence therapy.
+  - Care recipients can participate in VR scene. Our character ‘Brainy’ helps care recipient to follow the steps for VR experience which is a part of the reminiscence therapy. Avatar idles and have various motions. VR scenes are greatly similar to real existing places. Thus, our user can immerse to the VR contents easily.
 - **(2) Badge Tracker**
   - After the care recipient completes the VR experience, badges are awarded as part of gamification. These badges can be viewed not only on the Care Recipient's home-page but also on the Caregiver's home. There are a total of three badge designs, and one of them is randomly assigned.
 
 ## **3. How to Run**
 
-> _This service is developed mobile and VR device. Below are the methods for installing the application on mobile devices and running it on VR devices._
+> _This service is developed for mobile and VR device. Below are the methods for installing the application on mobile devices and running it on VR devices._
 
 ### Install Mobile Application
 
